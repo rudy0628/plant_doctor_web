@@ -1,0 +1,22 @@
+body>div:last-of-type {
+    display: none !important;
+    position: fixed !important;
+    bottom: -9999px !important;
+    right: -9999px !important;
+    width: 0px !important;
+    height: 0px !important;
+}
+
+.container {
+    padding: 15px;
+    border-style: hidden;
+    max-width: 1200px;
+    width: 90%;
+    margin: 100px auto 0px;
+    border-radius: 25px;
+    background-color: #6DD0CD;
+}
+
+.nav-item {
+    padding-top: 10px;
+}

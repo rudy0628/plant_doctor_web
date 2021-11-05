@@ -1,0 +1,63 @@
+.btn-search {
+    background-color: #6DD0CD;
+    margin: 5px auto;
+    font-size: 24px;
+}
+
+.selectStyle {
+    border-color: #6DD0CD;
+    margin: 5px auto;
+}
+
+.divStyle {
+    margin: 5px auto;
+    background-color: #FFFFFF;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.form {
+    padding: 5px auto;
+}
+
+.bodyStyle {
+    background-color: #6DD0CD;
+    padding: 5px;
+}
+
+.selectTitle {
+    text-align: left;
+    margin: 5px;
+    font-size: 24px;
+}
+
+.TitleImg {
+    margin-right: 5px;
+    margin-bottom: 5px;
+    width: 30px;
+    height: 30px;
+}
+
+.title {
+    margin-bottom: 5px;
+}
+
+.img-style{
+    width:75%;
+    margin: 5px auto;
+    border-radius: 25px;
+}
+
+
+.card {
+    border-radius: 25px;
+}
+
+body>div:last-of-type {
+    display: none !important;
+    position: fixed !important;
+    bottom: -9999px !important;
+    right: -9999px !important;
+    width: 0px !important;
+    height: 0px !important;
+}
